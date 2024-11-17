@@ -25,3 +25,4 @@ dist/
 *~
 # MacOS specific
 Thumbs.db
+firebase-debug.log
